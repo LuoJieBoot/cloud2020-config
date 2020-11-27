@@ -36,6 +36,5 @@ eureka:
       fetch-registry: true
       defaultZone: http://eureka7001.com:7001/eureka
 
-config:
-  verion: 1
+verion: 1
 
